@@ -1,4 +1,4 @@
-# Taskit — Time Management Dashboard
+# Taskit: Task Management Dashboard
 
 A lightweight high-performance, modern browser-based time and task management dashboard built with React. Taskit helps you organize tasks, progress, goals, and your calendar (similar to Google/Proton/Outlook Calendar) with a clean, responsive UI, task lists, and a calendar view powered by FullCalendar.
 
