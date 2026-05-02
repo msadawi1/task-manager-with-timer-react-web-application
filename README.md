@@ -2,6 +2,8 @@
 
 A lightweight high-performance, modern browser-based time and task management dashboard built with React. Taskit helps you organize tasks, progress, goals, and your calendar (similar to Google/Proton/Outlook Calendar) with a clean, responsive UI, task lists, and a calendar view powered by FullCalendar.
 
+Try here (No sign up, no installation): https://msadawi1.github.io/task-manager-with-timer-react-web-application/
+
 ## Table of Contents
 
 - [About](#about)
